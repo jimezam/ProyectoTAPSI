@@ -1,7 +1,7 @@
 Listado de integrantes:
 
 - Jorge Iván Meza Martínez
-- Jon Harold Sanchez
+
 
 - Don Profesor
 
@@ -12,3 +12,4 @@ Estudiantes:
 - Abraham Moises Velasquez
 - Luis Isaza
 - Kevin Suarez
+- Jon Harold Sanchez
